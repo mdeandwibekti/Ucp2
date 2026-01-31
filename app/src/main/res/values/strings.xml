@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Ucp2</string>
+    <string name="kamar1">Standard</string>
+    <string name="kamar2">Deluxe</string>
+    <string name="kamar3">Suite</string>
+    <string name="kamar4">Presidential</string>
+    <string name="back">Back</string>
+    <string name="detail_hotel">Detail Hotel</string>
+    <string name="delete">Hapus</string>
+    <string name="update">Edit</string>
+    <string name="nama1">Nama :</string>
+    <string name="alamat1">Alamat  :</string>
+    <string name="telpon1">Telpon  :</string>
+
+
+
+</resources>
